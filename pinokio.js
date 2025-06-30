@@ -1,6 +1,6 @@
 const path = require('path')
 module.exports = {
-  version: "2.0",
+  version: "3.7",
   title: "AudioSep",
   icon: "icon.jpeg",
   description: "Separate Anything You Describe (https://huggingface.co/spaces/Audio-AGI/AudioSep)",
